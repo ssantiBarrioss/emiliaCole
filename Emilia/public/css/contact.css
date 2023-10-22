@@ -1,0 +1,56 @@
+.body_contact{
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+
+
+#top_contact{
+    text-align: right;
+}
+
+.links_contact li{
+    margin-top: 20px;
+    display: inline;
+    list-style-type: none; 
+    
+}
+
+.links_contact{
+    text-align: right top;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 15px 0px;
+}
+.links_contact a{
+    
+    text-decoration: none;
+    color: black
+}
+
+.redes_contact li{
+    display: inline;
+    list-style-type: none;
+    
+}
+.redes_contact{
+    text-align: right;
+    margin: 25px 5px;
+}
+
+.info_contact h2{
+    margin-top: 40px;
+}
+
+.info_contact h3{
+    font-weight: 500;
+    color:rgb(8, 156, 112);
+}
+
+.info_contact h4{
+    font-weight: 500;
+}
+.info_contact a{
+    text-decoration: none;
+    color: grey
+}

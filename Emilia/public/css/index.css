@@ -1,0 +1,44 @@
+.twist{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 45px;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-top: 100px;
+}   
+
+.emilia h3{
+font-size: 30px;
+font-weight: 500;
+margin-left: 40px;
+margin-top: 70px;
+}
+
+.nav{
+    color: black;
+    text-decoration: none;
+    
+    
+}
+
+.links_index li{
+    margin-bottom: 25px;
+    
+}
+
+ul{
+    list-style-type: none; 
+}
+
+.redes_index li{
+    display: inline;
+    
+}
+
+.body_index{
+    font-family: 'Raleway', sans-serif;
+    background-image: url("/img/emilia-home.jpg");
+    background-repeat: no-repeat ;
+    background-position: right top -120px;
+    background-size: 74.2%;
+    
+}
